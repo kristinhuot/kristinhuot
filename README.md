@@ -5,7 +5,7 @@
 
 I'm Kristin, a full stack software developer who thrives on collaboration, efficiency, and kindness. Feedback, growth, and getting things done - and done well - are values that drive me both personally and professionally.
 
-- 📫 Want to reach me? Shoot me an email at kristin.huot@gmail.cmo
+- 📫 Want to reach me? Shoot me an email at kristin.huot@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to be outdoors and have even hiked a volcano in Guatemala 🌋
 
