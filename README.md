@@ -7,7 +7,7 @@ I'm Kristin, a full stack software developer who thrives on collaboration, effic
 
 - 📫 Want to reach me? Shoot me an email at kristin.huot@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love adventures and to be outdoors - I have even hiked a volcano in Guatemala 🌋
+- ⚡ Fun fact: I have hiked a volcano in Guatemala! 🌋 (I love adventures and to be outdoors!)
 
 ## 🛠️ Languages and Tools 
 <div>
