@@ -10,7 +10,7 @@ I'm Kristin, a full stack software developer who thrives on collaboration, effic
 - ⚡ Fun fact: I have hiked a volcano in Guatemala! 🌋 (I love adventures and to be outdoors!)
 
 ## Prime Academy Capstone Group Project
-Check out a demo of Nest8 [here](https://www.youtube.com/watch?v=AiFumQ3ZpaM), starting at about 35:05. You can find the repo [here]([https://github.com/your-username/your-repo-name](https://github.com/kristinhuot/nest8)).
+Check out a demo of Nest8 [here](https://www.youtube.com/watch?v=AiFumQ3ZpaM), starting at about 35:05. You can find the repo [here](https://github.com/your-username/your-repo-name](https://github.com/kristinhuot/nest8).
 
 ## 🛠️ Languages and Tools 
 <div>
