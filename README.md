@@ -9,6 +9,12 @@ I'm Kristin, a full stack software developer who thrives on collaboration, effic
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have hiked a volcano in Guatemala! 🌋 (I love adventures and to be outdoors!)
 
+## Prime Academy Capstone Group Project
+Check out a demo of Nest8 here, starting at about 35:05 
+<div>
+  <a href= "https://www.linkedin.com/in/kristinhuot/](https://www.youtube.com/watch?v=AiFumQ3ZpaM">
+  </a>
+
 ## 🛠️ Languages and Tools 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
